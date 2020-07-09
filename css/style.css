@@ -10,5 +10,13 @@ body{
 .header{
     background-color: darksalmon;
     padding: 1rem;
+}
 
+.headerh1{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+    font-style: normal;
+    
 }
