@@ -6,3 +6,9 @@ body{
     line-height: 1.6em;
     margin: 5%;
 }
+
+.header{
+    background-color: darksalmon;
+    padding: 1rem;
+
+}
