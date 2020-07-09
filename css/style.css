@@ -59,19 +59,37 @@ body{
     border-color: burlywood;
 }
 .emptyspace{
-    background-color: rgb(219, 177, 115);
     margin: 5%;
     float: left;
     width: 80%;
     text-align: center;
     padding: 30px;
+    text-decoration: underline;
+
+}
+
+.imagessection{
+    border-color: red;
+    border-width: thick;
+    border: 5px;
+    padding: 30px;
+
+}
+.firstimage{
+    float: center;
+    width: 100%;
+    border-image: round;
+    min-height: 300px;
+    margin-bottom: 3%;
+    margin-left: 5%;
+
     
 }
 .tropdestheading{
     float: left;
     width: 100%;
     text-align: center;
-
+    text-decoration: underline;
 }
 .tropdest{
     float:center;
