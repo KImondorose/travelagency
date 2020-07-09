@@ -21,9 +21,17 @@ body{
 }
 
 .nav{
-    color: forestgreen;
+    color: black;
     text-align: right;
 }
+
+.bgimage{
+    background-image: url("../images/bgimage.jpeg");
+    background-position: center;
+    min-height: 300px;
+    margin-bottom: 30px;
+}
+
 a{
     color: greenyellow;
 }
