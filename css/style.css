@@ -18,5 +18,16 @@ body{
     font-weight: 600;
     font-size: 2rem;
     font-style: normal;
-    
+}
+
+.nav{
+    color: forestgreen;
+    text-align: right;
+}
+a{
+    color: greenyellow;
+}
+a:hover{
+    color:forestgreen;
+
 }
